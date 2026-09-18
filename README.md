@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 1 | 0 | 0 | `2026-09-18` |
+| **2** | 2 | 0 | 0 | `2026-09-18` |
 
 ---
 
@@ -14,7 +14,8 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0001 | [Average of All Elements in an Array](./DSA/Linked-List/average-of-all-elements-in-an-array) | [JAVA](./DSA/Linked-List/average-of-all-elements-in-an-array/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0002 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
