@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 2 | 0 | 0 | `2026-09-18` |
+| **3** | 2 | 1 | 0 | `2026-09-19` |
 
 ---
 
@@ -15,7 +15,8 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Average of All Elements in an Array](./DSA/Linked-List/average-of-all-elements-in-an-array) | [JAVA](./DSA/Linked-List/average-of-all-elements-in-an-array/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0002 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0002 | [Pow(x,n)](./DSA/Recursion/powxn) | [JAVA](./DSA/Recursion/powxn/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0003 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
