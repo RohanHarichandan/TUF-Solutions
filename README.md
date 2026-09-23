@@ -6,21 +6,22 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 2 | 2 | 0 | `2026-09-23` |
+| **5** | 3 | 2 | 0 | `2026-09-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Average of All Elements in an Array](./DSA/Linked-List/average-of-all-elements-in-an-array) | [JAVA](./DSA/Linked-List/average-of-all-elements-in-an-array/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-21` |
-| 0002 | [Majority Element-I
+| 0002 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | 🟢 Easy | `Arrays` | `2026-09-23` |
+| 0003 | [Majority Element-I
 POTD](./DSA/General/majority-element-i) | [JAVA](./DSA/General/majority-element-i/solution.java) | 🟡 Medium | `General` | `2026-09-23` |
-| 0003 | [Pow(x,n)](./DSA/Recursion/powxn) | [JAVA](./DSA/Recursion/powxn/solution.java) | 🟡 Medium | `Recursion` | `2026-09-21` |
-| 0004 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-09-21` |
+| 0004 | [Pow(x,n)](./DSA/Recursion/powxn) | [JAVA](./DSA/Recursion/powxn/solution.java) | 🟡 Medium | `Recursion` | `2026-09-21` |
+| 0005 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-09-21` |
 
 ---
 
