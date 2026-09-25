@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 3 | 2 | 0 | `2026-09-23` |
+| **5** | 3 | 2 | 0 | `2026-09-25` |
 
 ---
 
@@ -21,7 +21,7 @@
 | 0003 | [Majority Element-I
 POTD](./DSA/General/majority-element-i) | [JAVA](./DSA/General/majority-element-i/solution.java) | 🟡 Medium | `General` | `2026-09-23` |
 | 0004 | [Pow(x,n)](./DSA/Recursion/powxn) | [JAVA](./DSA/Recursion/powxn/solution.java) | 🟡 Medium | `Recursion` | `2026-09-21` |
-| 0005 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-09-21` |
+| 0005 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-09-25` |
 
 ---
 
